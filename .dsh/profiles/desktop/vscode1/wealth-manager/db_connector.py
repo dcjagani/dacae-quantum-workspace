@@ -2,7 +2,7 @@ import os
 from supabase import create_client, Client
 
 # DACAE Official Fresh Supabase Credentials
-SUPABASE_URL = "તમારું_નવું_URL_અહીં_મૂકવું"
+SUPABASE_URL = "https://lzzpackilabwbyoujuxp.supabase.co"
 SUPABASE_KEY = "lzzpackilabwbyoujuxp"
 
 def get_supabase_client() -> Client:
