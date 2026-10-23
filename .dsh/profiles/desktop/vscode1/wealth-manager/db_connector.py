@@ -3,7 +3,7 @@ from supabase import create_client, Client
 
 # DACAE Official Fresh Supabase Credentials
 SUPABASE_URL = "https://lzzpackilabwbyoujuxp.supabase.co"
-SUPABASE_KEY = "lzzpackilabwbyoujuxp"
+SUPABASE_KEY = "sb_publishable_Ebqu5aADzAEB-sk..."  # અહીં તમારી પૂરેપૂરી Publishable key પેસ્ટ કરી દેવી
 
 def get_supabase_client() -> Client:
     """Initializes and returns the Supabase client for DACAE memory core."""
