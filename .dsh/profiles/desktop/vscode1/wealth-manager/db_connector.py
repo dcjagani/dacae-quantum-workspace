@@ -3,7 +3,7 @@ from supabase import create_client, Client
 
 # DACAE Official Fresh Supabase Credentials
 SUPABASE_URL = "તમારું_નવું_URL_અહીં_મૂકવું"
-SUPABASE_KEY = "તમારી_નવી_ANON_KEY_અહીં_મૂકવું"
+SUPABASE_KEY = "lzzpackilabwbyoujuxp"
 
 def get_supabase_client() -> Client:
     """Initializes and returns the Supabase client for DACAE memory core."""
